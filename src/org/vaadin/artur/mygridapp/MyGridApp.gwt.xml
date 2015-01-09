@@ -13,7 +13,7 @@
   <!--  Use Vaadin widgets -->
   <inherits name='com.vaadin.Vaadin'/>
   
-  <!-- Inherit to use default Valo theme -->
+  <!-- Inherit to use the whole default Valo theme -->
 <!--   <inherits name='com.vaadin.themes.Valo'/> -->
   <!-- Inherit this instead to use a customized Valo for the whole page-->
 <!--   <inherits name='org.vaadin.artur.mytheme.MyValo'/> -->
