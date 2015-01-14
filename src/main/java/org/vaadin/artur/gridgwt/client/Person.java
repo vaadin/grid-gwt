@@ -1,4 +1,4 @@
-package org.vaadin.artur.mygridapp.client;
+package org.vaadin.artur.gridgwt.client;
 
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;

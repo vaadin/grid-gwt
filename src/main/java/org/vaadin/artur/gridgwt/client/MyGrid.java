@@ -1,4 +1,4 @@
-package org.vaadin.artur.mygridapp.client;
+package org.vaadin.artur.gridgwt.client;
 
 import java.util.ArrayList;
 

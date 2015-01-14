@@ -1,8 +1,0 @@
-// Global variable overrides. Must be declared before importing Valo.
-$v-font-size: 22px;
-$v-background-color: rgb(200,50,50);
-
-@import "com/vaadin/themes/valo/_valo.scss";
-
-// Used this way it will affect the whole page (and might output some warnings about parent selectors)
-@include valo;
