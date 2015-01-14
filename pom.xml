@@ -87,6 +87,7 @@
         <!-- Plugin configuration. There are many available options, see 
           gwt-maven-plugin documentation at codehaus.org -->
         <configuration>
+          <copyWebapp>true</copyWebapp>
           <runTarget>index.html</runTarget>
           <modules>
             <module>org.vaadin.artur.gridgwt.GridApp</module>
